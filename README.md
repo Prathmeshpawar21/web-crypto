@@ -8,7 +8,7 @@ The Crypto Buy Platform is a user-friendly web application designed to help user
 
 ## Screenshot
 
-![Crypto Buy Platform Screenshot](./screenshot.png)
+![Crypto Buy Platform Screenshot](./images/crypto.png)
 
 ## Features
 
