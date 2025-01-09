@@ -1,39 +1,36 @@
-# Analytics Dashboard
+# Crypto Buy Platform Frontend - [Live](https://crypto-buy.netlify.app/)
 
-Welcome to the Analytics Dashboard project! This repository contains the code for my React and Next.js-based web application, hosted at [analytics-ten-sigma.vercel.app](https://analytics-ten-sigma.vercel.app/).
+Welcome to the Crypto Buy Platform project! This repository contains the code for my React-based web application.
 
 ## About the Project
 
-The Analytics Dashboard is a powerful tool for visualizing and analyzing data. It provides users with an interactive and responsive interface to explore metrics and insights effectively.
-
-
+The Crypto Buy Platform is a user-friendly web application designed to help users explore and purchase cryptocurrencies with ease. It provides a clean and intuitive interface for managing crypto investments.
 
 ## Screenshot
 
-![Analytics Dashboard Screenshot](./screenshot.png)
+![Crypto Buy Platform Screenshot](./screenshot.png)
+
 ## Features
 
-- **📊 Data Visualization**: Interactive charts and graphs for real-time data analysis.
-- **📈 Dynamic Updates**: Live updates to reflect changes in data.
-- **⚡ Fast Performance**: Built with React and Next.js for optimal speed and scalability.
-- **🌐 Responsive Design**: Accessible on all devices, including desktops, tablets, and smartphones.
+- **💰 Cryptocurrency Listings**: Browse a wide range of cryptocurrencies with detailed information.
+- **📈 Real-Time Prices**: Stay updated with live price changes and market trends.
+- **🔍 Easy Search**: Quickly find specific cryptocurrencies using the search functionality.
+- **📱 Responsive Design**: Optimized for seamless use on all devices, from desktops to smartphones.
 
 ## Technologies Used
 
-- **Frontend**: React, Next.js, Tailwind CSS
-- **State Management**: Redux (or any state management library, if applicable)
-- **Backend (optional)**: Node.js (if applicable, update as needed)
-- **Hosting**: Vercel
+- **Frontend**: React, Tailwind CSS
+- **Hosting**: Netlify
 
 ## How to Use
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/analytics-dashboard.git
+   git clone https://github.com/yourusername/crypto-buy-platform.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd analytics-dashboard
+   cd crypto-buy-platform
    ```
 3. Install dependencies:
    ```bash
@@ -41,7 +38,7 @@ The Analytics Dashboard is a powerful tool for visualizing and analyzing data. I
    ```
 4. Run the development server:
    ```bash
-   npm run dev
+   npm start
    ```
 5. Open your browser and visit:
    ```
@@ -50,18 +47,10 @@ The Analytics Dashboard is a powerful tool for visualizing and analyzing data. I
 
 ## Deployment
 
-This dashboard is hosted on Vercel. To deploy:
-1. Link the repository to your Vercel account.
-2. Push changes to the `main` branch, and Vercel will automatically deploy the updates.
-
-
-## Contact
-
-Feel free to connect with me:
-- **📧 Email**: your-email@example.com
-- **💼 LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- **🐙 GitHub**: [Your GitHub](https://github.com/yourusername)
+This platform is hosted on Netlify. To deploy:
+1. Link the repository to your Netlify account.
+2. Push changes to the `main` branch, and Netlify will automatically deploy the updates.
 
 ---
 
-Thank you for exploring my Analytics Dashboard! If you find this project helpful, please give it a ⭐ to show your support.
+Thank you for exploring my Crypto Buy Platform! If you find this project helpful, please give it a ⭐ to show your support.
