@@ -26,11 +26,11 @@ The Crypto Buy Platform is a user-friendly web application designed to help user
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-buy-platform.git
+   git clone https://github.com/Prathmeshpawar21/web-crypto.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd crypto-buy-platform
+   cd web-crypto
    ```
 3. Install dependencies:
    ```bash
